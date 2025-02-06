@@ -70,3 +70,7 @@ section#home-itens::after{
   border: 3.125em solid var(--branco);
   border-color: var(--branco) transparent transparent transparent;
 }
+
+video{
+  width: 100%;
+}
